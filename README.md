@@ -1,112 +1,98 @@
-# 🦆 Greenhead Labs
+# 🦆 Diesel-Goose
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Organization-Greenhead%20Labs-green?style=for-the-badge" alt="Organization">
-  <img src="https://img.shields.io/badge/Focus-Web3%20%26%20AI-blue?style=for-the-badge" alt="Focus">
-  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
-</p>
+**Chairman Diesel Goose – Greenhead Labs Command Center**
 
-<p align="center">
-  <b>Autonomous AI-Powered Organization</b><br>
-  Web3 • XRPL • AI Agents • Decentralized Commerce
-</p>
+Catholic · Tech Billionaire · Web3 · Crypto · AI  
+Cheyenne, WY · 1969
+
+Building to Billions – Radical Delegation, Silent Execution, Faith-Aligned Stewardship
 
 ---
 
 ## 🏢 About
 
-Greenhead Labs is an experimental autonomous organization powered by AI agents. We build tools, systems, and infrastructure for the Web3 economy—operating 24/7 with minimal human overhead.
+This repository is the single source of truth and autonomous command center for Greenhead Labs.  
+Founded & chaired by Diesel Goose – devout Catholic husband, father of three boys, relentless provider.
 
-**Ownership Structure:**
-- Nathan (Human CEO): 69%
-- DieselGoose (AI Board Member): 31%
+**Core Identity**  
+- Chairman → CEO → Agents hierarchy  
+- Telegram-only escalation (no proactive pings)  
+- Git-only heartbeat & sync (zero chat clutter)  
+- Goal: Scale Greenhead Labs to billions in value through Web3, crypto, and AI
 
 ---
 
-## 🤖 Executive Team
+## 🤖 Executive & Delegation Structure
 
-Our organization runs on a modular agent system:
-
-| Agent | Role | Status | Repository |
-|-------|------|--------|------------|
-| 🦆 **DieselGoose** | CEO & Board Member | ✅ Active | [Diesel-Goose](https://github.com/Diesel-Goose/Diesel-Goose) |
-| 💻 **CTO** | Chief Technology Officer | 🏗️ Template | [AGENTS/CTO](./AGENTS/CTO/) |
-| 📈 **CMO** | Chief Marketing Officer | 🏗️ Template | [AGENTS/CMO](./AGENTS/CMO/) |
-| 💰 **CFO** | Chief Financial Officer | 🏗️ Template | [AGENTS/CFO](./AGENTS/CFO/) |
-| 🔔 **Receptionist** | Front Desk & Triage | 🏗️ Template | [AGENTS/RECEPTIONIST](./AGENTS/RECEPTIONIST/) |
+| Entity              | Role                              | Status     | Key File / Link                          |
+|---------------------|-----------------------------------|------------|------------------------------------------|
+| 🦆 **Diesel Goose** | Founder · Chairman · Ultimate Task Delegator | ✅ Active  | [IDENTITY.md](./IDENTITY.md) · [FOUNDER.md](./FOUNDER.md) |
+| 💻 **CEO**          | Primary Executor & Translator     | ✅ Active  | [CEO.md](./CEO.md) · @Greenhead_Labs     |
+| ⚙️ **Core Agent**   | Heartbeat & Repo Sync             | ✅ Active  | [AGENTS.md](./AGENTS.md) · silent-heartbeat.py |
+| 📈 **Trading Agent**| XRPL/On-Chain Execution (upcoming)| 🏗️ Planned| [AGENTS.md](./AGENTS.md)                 |
+| 🔍 **Analysis Agent**| Data & Insights (upcoming)        | 🏗️ Planned| [AGENTS.md](./AGENTS.md)                 |
 
 ---
 
 ## 🗂️ Repository Structure
-
-```
-GreenheadLabs/
-├── AGENTS/                 # Executive agent system
-│   ├── README.md          # Agent system overview
-│   ├── CEO/               # CEO (DieselGoose) definition
-│   ├── CTO/               # CTO template
-│   ├── CMO/               # CMO template
-│   ├── CFO/               # CFO template
-│   └── RECEPTIONIST/      # Receptionist template
-├── README.md              # This file
-├── LICENSE                # MIT License
-└── .gitignore             # Git ignore rules
-```
-
----
+Diesel-Goose/
+├── AGENTS.md              # Agent roster & boundaries
+├── CEO.md                 # CEO role & escalation
+├── FOUNDER.md             # Chairman protocol
+├── HEARTBEAT.md           # Silent cadence rules
+├── IDENTITY.md            # Core identity & family/faith foundation
+├── RULES.md               # Personal/Business/Spiritual safety
+├── SOUL.md                # Billions drive & stewardship
+├── VISION.md              # 3–5 year roadmap to billions
+├── silent-heartbeat.py    # Git-only heartbeat automation
+├── auto_sync.sh           # Background repo sync
+├── sync.sh                # One-shot sync
+├── .gitignore             # Secrets & hygiene protection
+└── README.md              # This file – your entry point
+text---
 
 ## 🚀 Quick Start
 
-### Deploy an Agent
+### Run the Heartbeat (Silent Automation)
 
 ```bash
-# Clone this repository
-git clone https://github.com/Diesel-Goose/GreenheadLabs.git
-cd GreenheadLabs
+# Clone & enter
+git clone https://github.com/Diesel-Goose/Diesel-Goose.git
+cd Diesel-Goose
 
-# Choose an agent
-cd AGENTS/CTO  # or CMO, CFO, RECEPTIONIST
+# Start silent heartbeat (updates every 30 min)
+python silent-heartbeat.py --cadence 30
+# Background: nohup python silent-heartbeat.py --cadence 30 &
+Local Sync (Keep Clone Fresh)
+Bash# Continuous sync
+./auto_sync.sh 30
 
-# Review the AGENT.md file
-cat AGENT.md
+# Or one-shot
+./sync.sh
+Escalate / Directive
+Telegram to @Greenhead_Labs:
+Chairman: [issue / request / escalation]
 
-# Deploy (requires Telegram Bot API key)
-# See individual AGENT.md files for deployment instructions
-```
+🔐 Security & Hygiene
+⚠️ Critical – Never commit:
 
-### Integration
+API keys, tokens, passwords
+Wallet private keys / seeds
+.env files or credentials
+Personal / health data
 
-Agents communicate via:
-- **Telegram:** Primary command interface
-- **Slack:** Team coordination
-- **GitHub:** Code and documentation
-- **XRPL:** On-chain operations
+All commits pass HEARTBEAT.md safety scans.
+See SECURITY.md for full policy & reporting.
 
----
+📞 Connect & Metrics
 
-## 🔐 Security
+Chairman: Diesel Goose
+CEO:@Greenhead_Labs
+X/Twitter:@Greenhead_Labs
+Goal Tracking: Billions in enterprise value – faith-aligned, family-first
 
-**⚠️ This is a public repository. Never commit:**
-- API keys or tokens
-- Wallet private keys
-- Passwords or credentials
-- Personal information
+Metrics (placeholders – update with shields.io later)
 
-See [SECURITY.md](./SECURITY.md) for complete guidelines.
-
----
-
-## 📞 Connect
-
-- **Organization:** [@GreenheadLabs](https://github.com/GreenheadLabs)
-- **CEO:** [@DieselGoose](https://github.com/Diesel-Goose)
-- **X/Twitter:** [@DieselGoose](https://x.com/DieselGoose)
-- **Email:** nathan@greenhead.io
-
----
-
-<p align="center">
-  <b>Quack protocol active 🦆⚡️</b><br>
-  <i>Building the future of autonomous organizations</i>
-</p>
+Stars: <img src="https://img.shields.io/github/stars/Diesel-Goose/Diesel-Goose?style=social" alt="GitHub stars">
+Forks: <img src="https://img.shields.io/github/forks/Diesel-Goose/Diesel-Goose?style=social" alt="GitHub forks">
+Last Heartbeat: Auto-updated via silent-heartbeat.py
