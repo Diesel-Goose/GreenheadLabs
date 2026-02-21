@@ -11,8 +11,12 @@ Building to Billions – Radical Delegation, Silent Execution, Faith-Aligned Ste
 
 ## 🏢 About
 
-This repository is the single source of truth and autonomous command center for Greenhead Labs.  
+This repository is the **single source of truth** and autonomous command center for Greenhead Labs.  
 Founded & chaired by Diesel Goose – devout Catholic husband, father of three boys, relentless provider.
+
+**Current Status**  
+🚧 **Demo / Pre-Launch Stage** – Structure locked in, heartbeat & delegation live, full agent network still building.  
+Not yet production live. Chairman Diesel Goose maintains full control.
 
 **Core Identity**  
 - Chairman → CEO → Agents hierarchy  
@@ -29,8 +33,8 @@ Founded & chaired by Diesel Goose – devout Catholic husband, father of three b
 | 🦆 **Diesel Goose** | Founder · Chairman · Ultimate Task Delegator | ✅ Active  | [IDENTITY.md](./IDENTITY.md) · [FOUNDER.md](./FOUNDER.md) |
 | 💻 **CEO**          | Primary Executor & Translator     | ✅ Active  | [CEO.md](./CEO.md) · @Greenhead_Labs     |
 | ⚙️ **Core Agent**   | Heartbeat & Repo Sync             | ✅ Active  | [AGENTS.md](./AGENTS.md) · silent-heartbeat.py |
-| 📈 **Trading Agent**| XRPL/On-Chain Execution (upcoming)| 🏗️ Planned| [AGENTS.md](./AGENTS.md)                 |
-| 🔍 **Analysis Agent**| Data & Insights (upcoming)        | 🏗️ Planned| [AGENTS.md](./AGENTS.md)                 |
+| 📈 **Trading Agent**| XRPL/On-Chain Execution           | 🏗️ Planned | [AGENTS.md](./AGENTS.md)                 |
+| 🔍 **Analysis Agent**| Data & Insights                   | 🏗️ Planned | [AGENTS.md](./AGENTS.md)                 |
 
 ---
 
@@ -51,7 +55,7 @@ Diesel-Goose/
 └── README.md              # This file – your entry point
 text---
 
-## 🚀 Quick Start
+## 🚀 Quick Start (Demo Mode)
 
 ### Run the Heartbeat (Silent Automation)
 
@@ -89,10 +93,13 @@ See SECURITY.md for full policy & reporting.
 Chairman: Diesel Goose
 CEO:@Greenhead_Labs
 X/Twitter:@Greenhead_Labs
-Goal Tracking: Billions in enterprise value – faith-aligned, family-first
 
-Metrics (placeholders – update with shields.io later)
+Demo Metrics (placeholders – will update with real shields)
 
 Stars: <img src="https://img.shields.io/github/stars/Diesel-Goose/Diesel-Goose?style=social" alt="GitHub stars">
 Forks: <img src="https://img.shields.io/github/forks/Diesel-Goose/Diesel-Goose?style=social" alt="GitHub forks">
 Last Heartbeat: Auto-updated via silent-heartbeat.py
+
+
+Quack protocol active 🦆⚡️
+Provide relentlessly. Delegate radically. Scale to billions.
